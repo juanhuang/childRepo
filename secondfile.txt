@@ -1,1 +1,2 @@
 this is the second file in child
+test for push parent commit, will child commit be pushed too?
